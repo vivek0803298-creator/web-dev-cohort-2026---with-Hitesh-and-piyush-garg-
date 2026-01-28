@@ -21,3 +21,4 @@ b=input("entere no.2:")
 
 print("number a is:",a)
 print("number b is:",b)
+print ("the sum of a and b is : ,int(a)+int(b)")
